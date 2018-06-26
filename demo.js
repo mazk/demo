@@ -1,10 +1,10 @@
 var ap = new APlayer({
     
     music: {                                                           // Required, music info, see: ###With playlist
-        title: 'ロメオ',                                          // Required, music title
-        author: 'ハロー、ハッピーワールド！',                          // Required, music author
-        url: 'romeo.mp3',  // Required, music url
-        pic: 'romeo.png',  // Optional, music picture
+        title: '魂のルフラン',                                          // Required, music title
+        author: 'Roselia',                          // Required, music author
+        url: '07.mp3',  // Required, music url
+        pic: 'Cover.jpg',  // Optional, music picture
       
     }
 });
