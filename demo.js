@@ -1,8 +1,8 @@
 ﻿var ap = new APlayer({
     
     music: {                                                           // Required, music info, see: ###With playlist
-        title: 'わがまま',                                          // Required, music title
-        author: '瀧川ありさ',                          // Required, music author
+        title: 'センチメンタルクライシス',                                          // Required, music title
+        author: 'halca',                          // Required, music author
         url: '1.mp3',  // Required, music url
         pic: 'Cover.jpg',  // Optional, music picture
       
