@@ -8,7 +8,7 @@
             name: '無敵級*ビリーバー',
             artist: '中須かすみ(CV.相良茉優)',
             url: '10082346.mp3',
-            cover: 'cover.jpg',
+            cover: 'Cover.jpg',
             theme: '#F4A7B9'
         }
     ]
